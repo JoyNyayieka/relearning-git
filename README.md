@@ -1,2 +1,4 @@
-# relearning-git
-After a while of not using Git, this is my practice repository.
+#Joy Nyayieka
+##Second year computer science student
+**Working on a project**
+*Open to constructive criticism*
